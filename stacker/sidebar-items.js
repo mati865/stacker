@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["maybe_grow","Grows the call stack if necessary."],["remaining_stack","Queries the amount of remaining stack as interpreted by this library."]]});
